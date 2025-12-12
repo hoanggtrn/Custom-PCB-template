@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3V Pin=J1-17
+Removed Pin From Net: NetName=+3.3V Pin=U2-7
+Added Pin To Net: NetName=NetC8_1 Pin=J1-17
+Added Pin To Net: NetName=NetC8_1 Pin=U2-7
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NRST
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component C12 8pF 0402

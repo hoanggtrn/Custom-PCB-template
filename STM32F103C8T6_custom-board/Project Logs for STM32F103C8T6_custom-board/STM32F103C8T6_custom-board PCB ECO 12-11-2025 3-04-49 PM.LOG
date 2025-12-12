@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component C13 8pF 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R8 5.1kO 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R10 5.1kO 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R11 22O 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R12 510O 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R13 200kO 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R14 510O 0402
+Added Member To Class: ClassName=STM32F103C8T6_custom-board Member=Component R15 1MO 0402
